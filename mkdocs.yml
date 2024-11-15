@@ -1,0 +1,10 @@
+site_name: Mk-Learn
+locale: en
+theme:
+    name: material
+    color_mode: auto
+    user_color_mode_toggle: True
+    logo: img/site_logo.png
+    features:
+        - content.code.copy
+        - content.code.select
